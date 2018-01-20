@@ -9,10 +9,10 @@ complexity of fractals within fractals.
 Explore this amazing 8bit fractal world through a delightfully simple, classic user interface.
 
 Features:
--Real-time navigation through 8-bit fractals
--Near-infinite magnification
--Zoom level display
--Classic gamepad controls
+ - Real-time navigation through 8-bit fractals
+ - Near-infinite magnification
+ - Zoom level display
+ - Classic gamepad controls
 
-![Icon](https://github.com/toadlyBroodle/Fractal-Explorer/blob/master/8_bit_fractal_explorer_Extras/icon1.png)
 [Download on Google Playstore](https://play.google.com/store/apps/details?id=ca.toadlybroodle.fractalexplorer)
+![Icon](https://github.com/toadlyBroodle/Fractal-Explorer/blob/master/8_bit_fractal_explorer_Extras/icon1.png)
