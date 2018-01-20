@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 8639785bbdea984438e4e5f3386c621d
+timeCreated: 1459574217
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pad_center
+    21300002: nes_controller_cropped_1
+    21300004: nes_controller_cropped_2
+    21300006: nes_controller_cropped_3
+    21300008: zoom_out
+    21300010: zoom_in
+    21300012: pad_down
+    21300014: pad_right
+    21300016: pad_up
+    21300018: pad_left
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pad_center
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 49.5}
+        - {x: -50, y: -49.5}
+        - {x: 50, y: -49.5}
+        - {x: 50, y: 49.5}
+    - name: nes_controller_cropped_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 214
+        width: 324
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: nes_controller_cropped_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 143
+        width: 324
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155, y: 27.5}
+        - {x: -162, y: 22.5}
+        - {x: -162, y: -26.5}
+        - {x: -161, y: -27.5}
+        - {x: 162, y: -27.5}
+        - {x: 162, y: 27.5}
+    - name: nes_controller_cropped_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 6
+        width: 323
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161.5, y: 48.5}
+        - {x: 155.5, y: 58.5}
+        - {x: 149.5, y: 60.5}
+        - {x: -148.5, y: 60.5}
+        - {x: -160.5, y: 54.5}
+        - {x: -161.5, y: 52.5}
+        - {x: -161.5, y: -50.5}
+        - {x: -160.5, y: -52.5}
+        - {x: -153.5, y: -59.5}
+        - {x: -151.5, y: -60.5}
+        - {x: 150.5, y: -60.5}
+        - {x: 153.5, y: -58.5}
+        - {x: 159.5, y: -53.5}
+        - {x: 161.5, y: -48.5}
+    - name: zoom_out
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 66.5}
+        - {x: -65.5, y: 61.5}
+        - {x: -65.5, y: -61.5}
+        - {x: -63.5, y: -66.5}
+        - {x: 60.5, y: -66.5}
+        - {x: 65.5, y: -62.5}
+        - {x: 65.5, y: 66.5}
+    - name: zoom_in
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: 66.5}
+        - {x: -62.5, y: 66.5}
+        - {x: -65.5, y: 65.5}
+        - {x: -65.5, y: -66.5}
+        - {x: 65.5, y: -66.5}
+        - {x: 65.5, y: 59.5}
+        - {x: 60.5, y: 65.5}
+    - name: pad_down
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 33.5}
+        - {x: -50, y: -33.5}
+        - {x: 49, y: -33.5}
+        - {x: 50, y: -30.5}
+        - {x: 50, y: 33.5}
+    - name: pad_right
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 49.5}
+        - {x: -34, y: -49.5}
+        - {x: 32, y: -49.5}
+        - {x: 34, y: -48.5}
+        - {x: 34, y: 49.5}
+    - name: pad_up
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 174
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 34}
+        - {x: -50, y: 32}
+        - {x: -50, y: -34}
+        - {x: 50, y: -34}
+        - {x: 50, y: 30}
+        - {x: 46, y: 34}
+    - name: pad_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 49.5}
+        - {x: -33, y: -48.5}
+        - {x: -32, y: -49.5}
+        - {x: 33, y: -49.5}
+        - {x: 33, y: 49.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
