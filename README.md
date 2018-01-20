@@ -15,4 +15,3 @@ Features:
  - Classic gamepad controls
 
 [Download on Google Playstore](https://play.google.com/store/apps/details?id=ca.toadlybroodle.fractalexplorer)
-![Icon](https://github.com/toadlyBroodle/Fractal-Explorer/blob/master/8_bit_fractal_explorer_Extras/icon1.png)
